@@ -18,7 +18,7 @@ This forked version of  [ecodev/graphql-upload](https://github.com/Ecodev/graphq
 to support PHP8.
 
 ```sh
-composer require hkreuter/graphql-upload v0.1.0
+composer require hkreuter/graphql-upload 4.2.0
 ```
 
 
